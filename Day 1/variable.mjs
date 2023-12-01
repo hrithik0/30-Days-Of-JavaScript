@@ -1,16 +1,11 @@
-const string = "This is a string";
+const string = "This is a string" // string data type
 
-const num = 12 // this is a number
+const num = 12 // number data type
 
-const bool = true // boolean
+const bool = true // boolean data type
 
-const Null = null // this is a null data type
+const Null = null // null data type
 
-const Undefined = undefined // this is a undefined data type
+const Undefined = undefined // undefined data type
 
-
-const firstName = "Hrithik", lastName = "Karmakar", age = 20, maritalStatus = "unmarried", country = "India";
-export default {string, num, bool, Null, Undefined};
-
-const myAge = 20, yourAge = 25;
-console.log(`I am ${myAge} years old.\nYou are ${yourAge} years old.`);
+export default {string, num, bool, Null, Undefined}
