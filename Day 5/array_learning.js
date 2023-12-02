@@ -99,7 +99,7 @@ number of times to be removed and number of items to be added.
  */
 
 
-const newNames = names.splice(0, 3, "Hrithik", "Jade", "Goku");
+const newNames = names.splice(0, 3, "sjdfl", "dsuid", "Goku");
 console.log(names)
 
 //ADDING ITEM TO AN ARRAY
